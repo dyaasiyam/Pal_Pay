@@ -1,0 +1,21 @@
+/* body{
+    background-color: #a12280;
+} */
+header{
+    background-color: #a12280;
+}
+header ul li{
+    padding-right: 10px;
+}
+.hero{
+    background-color: #7d0faa;
+}
+.features{
+    background-color: #a12280;
+}
+footer{
+    background-color: #7d0faa;
+}
+body main{
+    overflow: hidden;
+}
